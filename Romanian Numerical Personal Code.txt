@@ -14,3 +14,7 @@ Romanian Numerical Personal Code
 2970726388868
 2970101431488
 2970915220178
+
+unique identification number
+CNP
+PIN
