@@ -1,0 +1,21 @@
+Austrian Social Security Number atleast two matches
+6585711309
+1841 014450
+
+socialsecurityno#,
+sicherheit kein,
+
+Austrian Social Security Number Multiple Records
+1925130443
+1284 200435
+2193 - 055294
+6679 300204
+7183605201
+5613 - 219298
+3550 261536
+8571 - 704429
+
+social security no,
+versicherungsnummer,
+SSN, SSN#,
+sozialversicherungsnummer, soziale
