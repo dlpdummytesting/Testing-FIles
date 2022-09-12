@@ -1,16 +1,18 @@
 UK Tax ID Number atleast two matches
-YG 10 97 63 C
-MB 63 68 81 C
+9720084623
+7691690791
 tax id, tax id no, tax id number, tax identification, tax no
 
 UK Tax ID Number Multiple Records
-GS 68 82 31 D
-EZ 19 84 19 B
-NY 57 75 74
-XM 70 94 70 A
-PG 57 21 85 D
-XT 57 26 71 C
-OJ 16 26 87
-ON 09 56 45 C
+5615628077 
+0260934801 
+1739781476 
+3040156994 
+2517867287 
+9342387594 
+9087250933 
+5258584517 
+3785381137 
+0176421162
 
 tax id, tax id no, tax id number, tax identification, tax no
