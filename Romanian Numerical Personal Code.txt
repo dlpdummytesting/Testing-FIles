@@ -1,5 +1,10 @@
-Romanian Numerical Personal Code
+Romanian Numerical Personal Code at least two matches
+1971117081436
+1970213039030
+Personal Numeric Code, unique identification number, 
 
+
+Romanian Numerical Personal Code Multiple Records
 1971117081436
 1970213039030
 1970402096531
@@ -15,6 +20,8 @@ Romanian Numerical Personal Code
 2970101431488
 2970915220178
 
-unique identification number
-CNP
-PIN
+Personal Numeric Code, unique identification number, 
+CNP, CNP#, PIN, PIN#, Insurance Number, insurancenumber#, unique identity number,
+ uniqueidentityno#, Cod Numeric Personal, cod identificare personal, 
+cod unic identificare, număr personal unic, număr identitate, număr identificare personal, 
+număridentitate#, CodNumericPersonal#, numărpersonalunic#
