@@ -1,10 +1,3 @@
-German Passport Number  with at least 2 matches
-
-ZNtCV1tH3rd
-kHwWlM9aNTd
-German passport number, passport number, passport no, passportno#, passportnumber#
-Reisepass kein, Reisepass, Passnummer
-
 German Passport Number multiple matches
 D0VCeD6V2Xd
 qxMG9elViwD
@@ -24,3 +17,5 @@ g7OaKv0ID3D
 OvXeK9wj44D
 4Hqj_Rqmc3D
 2eQoCBEbp8D
+German passport number, passport number, passport no, passportno#, passportnumber#
+Reisepass kein, Reisepass, Passnummer
