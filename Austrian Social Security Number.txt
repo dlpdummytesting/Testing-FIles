@@ -2,8 +2,7 @@ Austrian Social Security Number atleast two matches
 6585711309
 1841 014450
 
-socialsecurityno#,
-sicherheit kein,
+social security no, social security number, social security code, Austrian SSN, SSN#, ssn#, SSN, ssn, socialsecurityno#
 
 Austrian Social Security Number Multiple Records
 1925130443
@@ -15,7 +14,4 @@ Austrian Social Security Number Multiple Records
 3550 261536
 8571 - 704429
 
-social security no,
-versicherungsnummer,
-SSN, SSN#,
-sozialversicherungsnummer, soziale
+social security no, social security number, social security code, Austrian SSN, SSN#, ssn#, SSN, ssn, socialsecurityno#
