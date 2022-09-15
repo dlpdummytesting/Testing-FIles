@@ -36,3 +36,4 @@ NiqDnNEifvSbeQ4xeV+tKnRg7W7Gam1B5K8hpI1gfUAkktnfFgpBUboaLGSdU5p7
 7LZHdH9nieGrfC7b+adLwrNwSPyE1IZupoLbD804gfhU43D7pJqy8mfzDWWn
 =VwB5
 -----END PGP MESSAGE-----
+multipart/encrypted, multipart/signed, application/pkcs7-mime, application/x-pkcs7-mime, application/pkcs7-signature
